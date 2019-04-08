@@ -10,6 +10,6 @@ import pytesseract
 from PIL import Image
 
 # open image
-image = Image.open('string.png')
-code = pytesseract.image_to_string(image, lang='chi_tra')
+image = Image.open('string.png')#engString.jpg
+code = pytesseract.image_to_string(image, lang='chi_tra')#eng
 print(code)
