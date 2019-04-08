@@ -29,7 +29,7 @@ runfile('/Users/yumei/ocr.py', wdir='/Users/yumei')
 使用預設英文字集eng.traineddata	
 命名為engString.jpg   
 得到以下結果  
-runfile('/Users/yumei/ocr.py', wdir='/Users/yumei')
+runfile('/Users/yumei/ocr.py', wdir='/Users/yumei')  
 Core Developers.
 
 The core developer on the project is Ray Smith (theraysmith). .
