@@ -1,5 +1,5 @@
 # Tesseract_OCR_Practices
-References:
+References:  
 https://www.jianshu.com/p/2c9459059400  
 http://superhbin.pixnet.net/blog/post/28743913-%E3%80%90google%E5%B0%8B%E5%AF%B6%E3%80%9101.tesseract-ocr  
 
