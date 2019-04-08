@@ -1,5 +1,5 @@
 # Tesseract_OCR_Practices
-references:https://www.jianshu.com/p/2c9459059400  
+References:https://www.jianshu.com/p/2c9459059400  
 
 # 流程說明：  
 這是一個Google OCR套件Tesseract試驗  
