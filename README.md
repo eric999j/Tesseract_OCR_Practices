@@ -12,18 +12,18 @@ https://github.com/tesseract-ocr/tessdata
 識別https://thestandnews.com/art/%E7%82%BA%E7%94%9A%E9%BA%BC%E4%B8%8D%E6%8E%A8%E8%96%A6%E6%96%B0%E7%B4%B0%E6%98%8E%E9%AB%94/ 
 新細明體字樣圖片，命名為string.png  
 得到以下結果  
-runfile('/Users/yumei/ocr.py', wdir='/Users/yumei')
-念 春
+runfile('/Users/yumei/ocr.py', wdir='/Users/yumei')  
+念 春  
 
  
 
  
 
-斧 紡
+斧 紡  
 
  
 
-月 阡
+月 阡  
 並無識別出“新細明體”字樣，由於圖片結構簡潔，排除需要銳化或其他可能，但繁體中文識別不理想  
 英文試試  
 使用預設英文字集eng.traineddata	
